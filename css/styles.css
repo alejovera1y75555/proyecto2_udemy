@@ -150,8 +150,6 @@ h3 {
     width: 100%;
 }
 
-.producto__informacion {}
-
 .producto__nombre {
     font-size: 4rem;
 }
@@ -283,5 +281,4 @@ h3 {
 .formulario__submit:hover {
     cursor: pointer;
     background-color: var(--secundarioscuro);
-}  
-
+}
