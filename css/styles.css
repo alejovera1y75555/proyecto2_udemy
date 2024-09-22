@@ -283,10 +283,5 @@ h3 {
 .formulario__submit:hover {
     cursor: pointer;
     background-color: var(--secundarioscuro);
-}
+}  
 
-.formulario__campo:hover{
-    color: var(--negro);
-    background-color: var(--blanco)
-    
-}
